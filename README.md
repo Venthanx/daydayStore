@@ -38,6 +38,6 @@ npm run build
 
 ## 在线预览
 
-请在移动端模式下预览 👉 [daydayStore](https://venthan.gitee.io/daydaystore)
+请在移动端模式下预览 👉 [daydayStore](http://venthan.gitee.io/daydaystore)
 
 
